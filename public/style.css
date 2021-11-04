@@ -1,0 +1,97 @@
+body{ background-color: #E3E3E3;}
+
+p {
+    padding-left: 100px;
+    color: grey;
+}
+h1 {
+    padding-left: 100px;
+}
+#img1 {
+    position: absolute; 
+	left: 300px; /* posiciona a 90px para a esquerda */ 
+	top: 300px; /* posiciona a 70px para baixo */
+    background-color:#666;
+	border-radius: solid;
+	}
+    #img2 {
+        position: absolute; 
+        left: 600px; /* posiciona a 90px para a esquerda */ 
+        top: 300px; /* posiciona a 70px para baixo */
+        }
+        #img3 {
+            position: absolute; 
+            left: 900px; /* posiciona a 90px para a esquerda */ 
+            top: 300px; /* posiciona a 70px para baixo */
+            }
+h2{
+   top: 120px;
+   left: 300px;
+    position: relative;
+    
+}
+#img4 {
+    position: absolute; 
+	left: 390px; /* posiciona a 90px para a esquerda */ 
+	top: 262px; /* posiciona a 70px para baixo */
+	}
+    #img5 {
+        position: absolute; 
+        left: 650px; /* posiciona a 90px para a esquerda */ 
+        top: 262px; /* posiciona a 70px para baixo */
+        }
+        #img6 {
+            position: absolute; 
+            left: 920px; /* posiciona a 90px para a esquerda */ 
+            top: 270px; /* posiciona a 70px para baixo */
+            }
+            #img7 {
+                position: absolute; 
+                left: 600px; /* posiciona a 90px para a esquerda */ 
+                top: 500px; /* posiciona a 70px para baixo */
+                }
+                .button {
+                    background-color: #4CAF50; 
+                    border: none;
+                    color: white;
+                    padding: 15px 32px;
+                    text-align: center;
+                    text-decoration: none;
+                    display: inline-block;
+                    font-size: 16px;
+                    margin: 4px 2px;
+                    cursor: pointer;
+                  }
+                #btn1 {background-color: #f44336;
+                    border: none;
+                    color: white;
+                    padding: 15px 32px;
+                    text-align: center;
+                    text-decoration: none;
+                    display: inline-block;
+                    font-size: 16px;
+                    margin: 4px 2px;
+                    cursor: pointer;}
+
+                    #btn2 {background-color: gray;
+                        border: none;
+                        color: white;
+                        padding: 15px 32px;
+                        text-align: center;
+                        text-decoration: none;
+                        display: inline-block;
+                        font-size: 16px;
+                        margin: 4px 2px;
+                        cursor: pointer;
+                        position: relative;position: absolute; right: 0.5;
+                                    }
+                        #btn3 {background-color: gray;
+                            border: none;
+                            color: white;
+                            padding: 15px 32px;
+                            text-align: center;
+                            text-decoration: none;
+                            display: inline-block;
+                            font-size: 16px;
+                            margin: 4px 2px;
+                            cursor: pointer;position: absolute; right: 0;}
